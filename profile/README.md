@@ -44,22 +44,22 @@
 
 ## Technologies Used
 
-### Frontend
+#### Frontend
 - **Typescript**
 - **Swift**
 - **React Native**
 
-### Backend
+#### Backend
 - **Java / Spring Boot**
 - **Python / FastAPI**
 
-### AI
+#### AI
 - **Python**
 - **OpenAI API**
 - **RunwayML**
 - **PyTorch**
 
-### Database
+#### Database
 - **MySQL**
 - **MongoDB**
 - **Redis**
