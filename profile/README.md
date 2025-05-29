@@ -12,8 +12,8 @@
 - [Technologies Used](#technologies-used)
 - [Deployment](#deployment)
 - [Development Environment](#development-environment)
-- [✨ Expected Outcomes](#expected-outcomes)
-- [Team Blocker Developers](#team-blocker-developers)
+- [Expected Outcomes](#-expected-outcomes)
+- [Team Blocker Developers](#-team-blocker-developers)
 <br>
 
 
