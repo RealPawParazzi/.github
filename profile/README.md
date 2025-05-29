@@ -6,7 +6,7 @@
 
 
 ## Contents
--[Project Description](#Project-Description)
+- [Project Description](#project-description)
 - [Features](#features)
 - [Architecture](#architecture)
 - [Technologies Used](#technologies-used)
