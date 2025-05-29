@@ -1,6 +1,10 @@
 # 🐾 PawParazzi
+<br>
+<br>
+<br>
+<br>
 
-**반려동물 보호자들을 위한 특화된 SNS 애플리케이션**
+
 
 
 ## Contents
