@@ -1,7 +1,4 @@
 # 🐾 PawParazzi
-<br>
-
-
 
 ## Contents
 - [Project Description](#project-description)
