@@ -40,7 +40,7 @@
 
 
 ##  Main Picture
-사진들 추가 
+
 ![222222](https://github.com/user-attachments/assets/c5bac4b9-d6f4-4aa9-bffc-f0db9143b7a8)
 
 ![1234](https://github.com/user-attachments/assets/33152881-c92d-4320-b2a3-9d0bcdddf8bd)
