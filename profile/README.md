@@ -14,8 +14,18 @@
 - AI 기반 자동 태그 생성
 - 펫 기반 SNS 기능
 
+## Contents
+- [주요 기능](#주요-기능)
+- [Architecture](#Architecture)
+- [Technologies Used](#technologies-used)
+- [Deployment](#deployment)
+- [개발 환경](#개발-환경)
+- [✨ 기대 효과](#-기대-효과)
 
-Architecture
+
+
+
+## Architecture
 
 <img width="806" alt="image" src="https://github.com/user-attachments/assets/aa49c41e-2858-49bf-ae29-82831a4d7702" />
 
