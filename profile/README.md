@@ -91,37 +91,34 @@
 PawParazzi는 단순한 반려동물 관리 앱을 넘어, **감정 기반 콘텐츠 생성과 보호자 간의 유대 강화**를 통해 진정한 반려동물 라이프스타일 플랫폼으로 발전해나간다.
 
 
-## Team Blocker Developers
-<table>
-  <tbody>
+## 🧑‍💻 Team Blocker Developers
+
 <table>
   <tr>
-    <td align="center">
+    <td align="center"><b>BE</b><br/>
       <a href="https://github.com/hanjunLee00">
-        <img src="https://github.com/hanjunLee00.png" width="100px;" alt="hanjun-dev"/>
-        <br /><sub><b>BE: 이한준</b></sub>
-      </a><br />
+        <img src="https://github.com/hanjunLee00.png" width="100px;" alt="hanjunLee00"/><br />
+        <sub><b>이한준</b></sub>
+      </a>
     </td>
-    <td align="center">
+    <td align="center"><b>BE</b><br/>
       <a href="https://github.com/geg222">
-        <img src="https://github.com/geg222.png" width="100px;" alt="wonjunyoung"/>
-        <br /><sub><b>BE: 원준영</b></sub>
-      </a><br />
+        <img src="https://github.com/geg222.png" width="100px;" alt="geg222"/><br />
+        <sub><b>원준영</b></sub>
+      </a>
     </td>
-    <td align="center">
+    <td align="center"><b>FE</b><br/>
       <a href="https://github.com/shinmink">
-        <img src="https://github.com/shinmink.png" width="100px;" alt="shinmink"/>
-        <br /><sub><b>FE: 신민금</b></sub>
-      </a><br />
+        <img src="https://github.com/shinmink.png" width="100px;" alt="shinmink"/><br />
+        <sub><b>신민금</b></sub>
+      </a>
     </td>
-    <td align="center">
+    <td align="center"><b>FE</b><br/>
       <a href="https://github.com/gyeongmin0113">
-        <img src="https://github.com/gyeongmin0113.png" width="100px;" alt="kyoungmin-dev"/>
-        <br /><sub><b>FE: 이경민</b></sub>
-      </a><br />
+        <img src="https://github.com/gyeongmin0113.png" width="100px;" alt="gyeongmin0113"/><br />
+        <sub><b>이경민</b></sub>
+      </a>
     </td>
   </tr>
-</table>
-  </tbody>
 </table>
 
