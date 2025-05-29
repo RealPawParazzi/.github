@@ -99,25 +99,25 @@ PawParazzi는 단순한 반려동물 관리 앱을 넘어, **감정 기반 콘�
     <td align="center">
       <a href="https://github.com/hanjunLee00">
         <img src="https://github.com/hanjunLee00.png" width="100px;" alt="hanjun-dev"/>
-        <br /><sub><b>BE 이한준</b></sub>
+        <br /><sub><b>BE: 이한준</b></sub>
       </a><br />
     </td>
     <td align="center">
       <a href="https://github.com/geg222">
         <img src="https://github.com/geg222.png" width="100px;" alt="wonjunyoung"/>
-        <br /><sub><b>BE 원준영</b></sub>
+        <br /><sub><b>BE: 원준영</b></sub>
       </a><br />
     </td>
     <td align="center">
       <a href="https://github.com/shinmink">
         <img src="https://github.com/shinmink.png" width="100px;" alt="shinmink"/>
-        <br /><sub><b>FE 신민금</b></sub>
+        <br /><sub><b>FE: 신민금</b></sub>
       </a><br />
     </td>
     <td align="center">
       <a href="https://github.com/gyeongmin0113">
         <img src="https://github.com/gyeongmin0113.png" width="100px;" alt="kyoungmin-dev"/>
-        <br /><sub><b>FE 이경민</b></sub>
+        <br /><sub><b>FE: 이경민</b></sub>
       </a><br />
     </td>
   </tr>
