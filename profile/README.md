@@ -34,7 +34,6 @@
 <img width="806" alt="image" src="https://github.com/user-attachments/assets/aa49c41e-2858-49bf-ae29-82831a4d7702" />
 
 
----
 
 ##  Main Picture
 
@@ -65,32 +64,28 @@
 - **MongoDB**
 - **Redis**
 
----
+
 
 ## Deployment
-
 - **EC2** (서버 인스턴스)
 - **S3** (이미지 및 동영상 저장)
 - **ECR** (컨테이너 이미지 저장소)
 - **Docker** (컨테이너 환경 구성)
 - **RDS** (관계형 데이터베이스(MySQL))
 
----
+
 
 ## 개발 환경
-
 - **IntelliJ IDEA** 
 - **Xcode** 
 - **Visual Studio Code** 
 - **WebStorm** 
 
----
 
 ## ✨ 기대 효과
 
 PawParazzi는 단순한 반려동물 관리 앱을 넘어, **감정 기반 콘텐츠 생성과 보호자 간의 유대 강화**를 통해 진정한 반려동물 라이프스타일 플랫폼으로 발전해나간다.
 
----
 
 ## Team Blocker Developers
 <table>
