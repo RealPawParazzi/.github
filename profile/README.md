@@ -44,28 +44,28 @@
 
 ## Deployment
 
-- **EC2** – 서버 인스턴스
-- **S3** – 이미지 및 동영상 저장
-- **ECR** – 컨테이너 이미지 저장소
-- **Docker** – 컨테이너 환경 구성
-- **RDS** – 관계형 데이터베이스(MySQL)
+- **EC2** (서버 인스턴스)
+- **S3** (이미지 및 동영상 저장)
+- **ECR** (컨테이너 이미지 저장소)
+- **Docker** (컨테이너 환경 구성)
+- **RDS** (관계형 데이터베이스(MySQL))
 
 ---
 
 ## Collaboration Tools
 
-- **GitHub** – 버전 관리
-- **Notion** – 문서 및 회의 기록
-- **Discord** – 실시간 커뮤니케이션
+- **GitHub** 
+- **Notion** 
+- **Discord** 
 
 ---
 
 ## 개발 환경
 
-- **IntelliJ IDEA** – Java / Spring 개발
-- **Xcode** – iOS / Swift 개발
-- **Visual Studio Code** – Web 및 AI 코드 작성
-- **WebStorm** – 프론트엔드 개발 최적화
+- **IntelliJ IDEA** 
+- **Xcode** – 발
+- **Visual Studio Code** 
+- **WebStorm** 
 
 ---
 
