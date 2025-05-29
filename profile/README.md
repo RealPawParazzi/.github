@@ -10,6 +10,7 @@
 - [Deployment](#deployment)
 - [개발 환경](#개발-환경)
 - [✨ 기대 효과](#-기대-효과)
+- [Team Blocker Developers](#Team Blocker Developers)
 
   
 
@@ -84,3 +85,11 @@ PawParazzi는 단순한 반려동물 관리 앱을 넘어, **감정 기반 콘�
 통해 진정한 반려동물 라이프스타일 플랫폼으로 발전해나가다.
 
 ---
+
+## Team Blocker Developers
+| <img src="https://avatars.githubusercontent.com/u/158552165?s=96&v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/147246023?s=96&v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/160628390?s=96&v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/163666284?s=96&v=4" width=100> |<img src="https://avatars.githubusercontent.com/u/202471958?s=96&v=4" width=100> |
+| :---: | :---: | :---: | :---: | :---: |
+| [이한준](https://github.com/hanjunLee00) | [원준영](https://github.com/geg222) | [신민금](https://github.com/shinmink) | [이경민](https://github.com/gyeongmin0113) |
+
+---
+
