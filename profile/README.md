@@ -15,6 +15,10 @@
 - 펫 기반 SNS 기능
 
 
+Architecture
+
+<img width="806" alt="image" src="https://github.com/user-attachments/assets/aa49c41e-2858-49bf-ae29-82831a4d7702" />
+
 
 ---
 
