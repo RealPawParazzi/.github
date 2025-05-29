@@ -96,30 +96,33 @@ PawParazzi는 단순한 반려동물 관리 앱을 넘어, **감정 기반 콘�
 
 <table>
   <tr>
-    <td align="center"><b>BE</b><br/>
+    <td align="center" style="padding: 20px;">
+      <div style="font-size:20px;"><b>BE</b></div>
       <a href="https://github.com/hanjunLee00">
-        <img src="https://github.com/hanjunLee00.png" width="100px;" alt="hanjunLee00"/><br />
-        <sub><b>이한준</b></sub>
+        <img src="https://github.com/hanjunLee00.png" width="130px;" alt="hanjunLee00"/><br />
+        <div style="font-size:18px;"><b>이한준</b></div>
       </a>
     </td>
-    <td align="center"><b>BE</b><br/>
+    <td align="center" style="padding: 20px;">
+      <div style="font-size:20px;"><b>BE</b></div>
       <a href="https://github.com/geg222">
-        <img src="https://github.com/geg222.png" width="100px;" alt="geg222"/><br />
-        <sub><b>원준영</b></sub>
+        <img src="https://github.com/geg222.png" width="130px;" alt="geg222"/><br />
+        <div style="font-size:18px;"><b>원준영</b></div>
       </a>
     </td>
-    <td align="center"><b>FE</b><br/>
+    <td align="center" style="padding: 20px;">
+      <div style="font-size:20px;"><b>FE</b></div>
       <a href="https://github.com/shinmink">
-        <img src="https://github.com/shinmink.png" width="100px;" alt="shinmink"/><br />
-        <sub><b>신민금</b></sub>
+        <img src="https://github.com/shinmink.png" width="130px;" alt="shinmink"/><br />
+        <div style="font-size:18px;"><b>신민금</b></div>
       </a>
     </td>
-    <td align="center"><b>FE</b><br/>
+    <td align="center" style="padding: 20px;">
+      <div style="font-size:20px;"><b>FE</b></div>
       <a href="https://github.com/gyeongmin0113">
-        <img src="https://github.com/gyeongmin0113.png" width="100px;" alt="gyeongmin0113"/><br />
-        <sub><b>이경민</b></sub>
+        <img src="https://github.com/gyeongmin0113.png" width="130px;" alt="gyeongmin0113"/><br />
+        <div style="font-size:18px;"><b>이경민</b></div>
       </a>
     </td>
   </tr>
 </table>
-
