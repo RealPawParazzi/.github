@@ -44,7 +44,6 @@
 <img src="https://github.com/user-attachments/assets/2c484269-b798-448a-ac65-34cd5c428187" width="300"/>
 <img src="https://github.com/user-attachments/assets/8bc03739-4979-41d0-b54f-54efbd521298" width="300"/>
 <img src="https://github.com/user-attachments/assets/f57e4db7-dfd3-490d-98c1-65ede03b723a" width="300"/>
-<img src="https://github.com/user-attachments/assets/0999d377-b057-4ed6-8f20-40f9148b036a" width="300"/>
 
 
 
