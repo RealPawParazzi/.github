@@ -56,14 +56,6 @@ Architecture
 
 ---
 
-## Collaboration Tools
-
-- **GitHub** 
-- **Notion** 
-- **Discord** 
-
----
-
 ## 개발 환경
 
 - **IntelliJ IDEA** 
