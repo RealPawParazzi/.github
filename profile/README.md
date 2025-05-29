@@ -93,9 +93,38 @@ PawParazzi는 단순한 반려동물 관리 앱을 넘어, **감정 기반 콘�
 ---
 
 ## Team Blocker Developers
-| <img src="https://avatars.githubusercontent.com/u/158552165?s=96&v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/147246023?s=96&v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/160628390?s=96&v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/163666284?s=96&v=4" width=100> |<img src="https://avatars.githubusercontent.com/u/202471958?s=96&v=4" width=100> |
-| :---: | :---: | :---: | :---: | :---: |
-| [이한준](https://github.com/hanjunLee00) | [원준영](https://github.com/geg222) | [신민금](https://github.com/shinmink) | [이경민](https://github.com/gyeongmin0113) |
+<table>
+  <tbody>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/hanjunLee00">
+        <img src="https://github.com/hanjunLee00.png" width="100px;" alt="hanjun-dev"/>
+        <br /><sub><b>BE 팀장 : 이한준</b></sub>
+      </a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/geg222">
+        <img src="https://github.com/geg222.png" width="100px;" alt="wonjunyoung"/>
+        <br /><sub><b>BE 팀원 : 원준영</b></sub>
+      </a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/shinmink">
+        <img src="https://github.com/shinmink.png" width="100px;" alt="shinmink"/>
+        <br /><sub><b>FE 팀원 : 신민금</b></sub>
+      </a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/gyeongmin0113">
+        <img src="https://github.com/gyeongmin0113.png" width="100px;" alt="kyoungmin-dev"/>
+        <br /><sub><b>FE 팀원 : 이경민</b></sub>
+      </a><br />
+    </td>
+  </tr>
+</table>
+  </tbody>
+</table>
 
 ---
 
