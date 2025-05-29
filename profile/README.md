@@ -1,7 +1,8 @@
 # 🐾 PawParazzi
 <br>
 <br>
-사진 
+
+<img src="https://github.com/user-attachments/assets/e21e3c9e-aade-4f14-a8c8-b270136d1fec" width="400" />
 
 
 
