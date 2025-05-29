@@ -63,7 +63,7 @@
 ## 개발 환경
 
 - **IntelliJ IDEA** 
-- **Xcode** – 발
+- **Xcode** 
 - **Visual Studio Code** 
 - **WebStorm** 
 
