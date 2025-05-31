@@ -8,7 +8,7 @@
 - [Deployment](#deployment)
 - [Development Environment](#development-environment)
 - [Expected Outcomes](#-expected-outcomes)
-- [Team Blocker Developers](#-team-blocker-developers)
+- [Team PawParazzi Developers](#-team-pawparazzi-developers)
 <br>
 
 
@@ -94,7 +94,7 @@
 PawParazzi는 단순한 반려동물 관리 앱을 넘어, **감정 기반 콘텐츠 생성과 보호자 간의 유대 강화**를 통해 진정한 반려동물 라이프스타일 플랫폼으로 발전해나간다.
 
 
-## 🧑‍💻 Team Blocker Developers
+## 🧑‍💻 Team PawParazzi Developers
 
 <table>
   <tr>
