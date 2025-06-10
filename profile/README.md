@@ -12,7 +12,7 @@
 <br>
 
 ## Demo Video
- - [Youtube Link](#https://www.youtube.com/watch?v=lpnG8qMF558)
+ - [Youtube Link](https://www.youtube.com/watch?v=lpnG8qMF558)
 
 
 ## Project Description
