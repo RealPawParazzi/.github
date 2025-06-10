@@ -11,6 +11,9 @@
 - [Team PawParazzi Developers](#-team-pawparazzi-developers)
 <br>
 
+## Demo Video
+ - [Youtube Link](#https://www.youtube.com/watch?v=lpnG8qMF558)
+
 
 ## Project Description
 일상 기록부터 AI 기반 콘텐츠 생성까지 가능한 종합 플랫폼이다. 사용자는 여러 반려동물을 개별 등록하여 체계적으로 관리하고, 산책 기록 추적을 통해 건강 상태를 모니터링할 수 있다. 
